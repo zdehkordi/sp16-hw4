@@ -15,7 +15,7 @@ Fork the repository to your own!
 
 Run this command to clone this repository <b>after you fork:</b>
 ```
-git clone https://github.com/your_username/sp15-hw2
+git clone https://github.com/your_username/fa15-hw4
 ```
 
 Afterwards, change directory into the folder and run

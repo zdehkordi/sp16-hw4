@@ -1,4 +1,4 @@
-# Spring 2015 Homework 4
+# Fall 2015 Homework 4
 
 ## Overall Spec
 
@@ -23,9 +23,12 @@ Afterwards, change directory into the folder and run
 rails server
 ```
 
-## Just a note
-  There is the annotated code of how to do the same process for creating all this functionality for a user.  The only difference
-  is there is an integer (the dogs age) involved.
+## Notes
+There is the annotated code of how to do the same process for creating all this functionality for
+a user. The only difference is there is an integer (the dogs age) involved. TRY not the reference
+the annotated code until you try it first, it'll make the experience more challenging. The specs
+are general because you will find that when making an app implementation details aren't given but
+rather general feature details.
 
 ## Submitting
 

@@ -1,4 +1,4 @@
-# Fall 2015 Homework 4
+# Spring 2016 Homework 4
 
 ## Overall Spec
 
@@ -15,7 +15,7 @@ Fork the repository to your own!
 
 Run this command to clone this repository <b>after you fork:</b>
 ```
-git clone https://github.com/your_username/fa15-hw4
+git clone https://github.com/your_username/sp16-hw4
 ```
 
 Afterwards, change directory into the folder and run
@@ -24,11 +24,12 @@ rails server
 ```
 
 ## Notes
-There is the annotated code of how to do the same process for creating all this functionality for
+- There is the annotated code of how to do the same process for creating all this functionality for
 a user. The only difference is there is an integer (the dogs age) involved. TRY not the reference
-the annotated code until you try it first, it'll make the experience more challenging. The specs
-are general because you will find that when making an app implementation details aren't given but
-rather general feature details.
+the annotated code until you try it first, it'll make the experience more challenging.
+
+-The specs are general because you will find that when making an app, implementation details are not given, but
+rather you will have a general idea of the final result and you have to figure out the implementation.
 
 ## Submitting
 
@@ -38,4 +39,4 @@ git add .
 git commit -am "I'M DONE"
 ```
 
-and fill out this [form](https://docs.google.com/forms/d/1X9hN_QxenSULe-cWQIVWWJuholodQEp_wxSATBRzPPY/viewform).
+And submit the link to your repo through the rails decal website.

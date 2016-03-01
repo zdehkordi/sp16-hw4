@@ -1,0 +1,8 @@
+<h1>Dogs!</h1>
+<%= link_to "Adopt a NEW Dog!", dogs_new_path %>
+<p></p>
+<% @dogs.each do |d| %>
+  Name: <%= link_to d.name, dog_path(d) %>
+  Age : <%= d.age %>
+  <br>
+<% end %>
